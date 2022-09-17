@@ -1,2 +1,1 @@
-script that prints the absolute path name of the current working directory
-# alx-system_engineering-devops
+A README.md file, at the root of the folder of this project, describing what each script is doing
